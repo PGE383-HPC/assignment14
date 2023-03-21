@@ -1,6 +1,6 @@
 # Homework Assignment 14
 
-![Assignment 14](https://github.com/PGE383-HPC/assignment14-solution/actions/workflows/main.yml/badge.svg)
+![Assignment 14](https://github.com/PGE383-HPC/assignment14/actions/workflows/main.yml/badge.svg)
 
 
 [Gauss quadrature](https://en.wikipedia.org/wiki/Gaussian_quadrature) is a clever procedure for numerically evaluating definite integrals. Gauss quadrature gets more accurate as the number (order) of quadrature points increases.
